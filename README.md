@@ -4,9 +4,7 @@
 [toc]
 
 ---
-![](https://i.imgur.com/Tc4TUw6.png)
-![](https://i.imgur.com/cJP3Ael.png)
-![](https://i.imgur.com/aUNYHDM.jpg)
+![](https://i.imgur.com/aUNYHDM.jpg =100*100)
 
 ## Data Download
 The files can be downloded from [here](https://drive.google.com/file/d/1tVYbSaG0JdxTLLPSAESnBNvj_RIxKg5B/view?usp=sharing).
