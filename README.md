@@ -4,7 +4,7 @@
 [toc]
 
 ---
-![](https://i.imgur.com/aUNYHDM.jpg =100*100)
+
 
 ## Data Download
 The files can be downloded from [here](https://drive.google.com/file/d/1tVYbSaG0JdxTLLPSAESnBNvj_RIxKg5B/view?usp=sharing).
@@ -112,6 +112,9 @@ userId,docId,timestamp
 - **event.csv**
 This file contains the information about the **Context** in which the ad is shown to the user. The *displayId* is an Id that unifies the display and can link this contextual information to the click data. In each display multiple ads are shown to the user and one or none of them is clicked. *widgetId* is the id of the widget that the ads is shown to user in it. Each page may contain multiple widgets and in each widget multiple ads are shown to the user.
 A sample page with multiple widgets:
+
+<img src="https://i.imgur.com/aUNYHDM.jpg" width="500">
+
 Each row describes the context of a display in which some ads are shown to a user:
 :::info
 ```json=
